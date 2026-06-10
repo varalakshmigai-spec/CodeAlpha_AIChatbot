@@ -22,7 +22,12 @@ This project is an AI-powered FAQ Chatbot developed using Python and Streamlit. 
 
 1. Clone the repository:
 2. Install the required packages:
+
+pip install -r requirements.txt
+
 3. Run the application:
+
+streamlit run app.py
 
 ## How It Works
 
